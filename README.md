@@ -1,7 +1,5 @@
 # 🦷 DentAlign - Dental Clinic Management System
 
-![DentAlign Banner](https://via.placeholder.com/1200x400?text=DentAlign+-+Dental+Clinic+Management+System)
-
 DentAlign is a comprehensive, modern, and full-stack Dental Clinic Management System. It streamlines the day-to-day operations of a dental clinic by providing dedicated portals for Patients, Staff (Doctors & Nurses), and Administrators.
 
 With a powerful Django backend and a responsive, dynamic React frontend, DentAlign handles everything from appointment scheduling and electronic medical records to billing, user approvals, and real-time dashboard analytics.
